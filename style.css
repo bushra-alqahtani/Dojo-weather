@@ -1,0 +1,120 @@
+a{
+    text-decoration: none;
+    color: aliceblue;
+    margin-left: 20px;
+}
+
+.navdiv{
+background-color: #9fc5f8;
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+
+div h1{
+    color: aliceblue;
+    margin-left: 20px;
+
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.wrapper{
+    width: 47%;
+    margin: 0px auto;
+}
+hr{
+    height: 2px;
+    font-weight: bold;
+    background-color: black;
+}
+.mainfchild{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    
+
+}
+.today{
+    background-color: #eeeeee;
+    padding: 20px 20px 20px 20px;
+   
+}
+.tomorrow{
+    background-color: #eeeeee;
+    padding: 20px 20px 20px 20px;
+    margin-left: 35px;
+}
+.imgweather{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+}
+div h3{
+    margin-left: 10px;
+}
+div p{
+    margin-left: 10px;
+}
+.flexspan{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.red{
+    color: #d02e2b;
+    font-weight: bold;
+}
+.blue{
+    color: #2d79e4;
+    font-weight: bold;
+}
+.friday{
+    background-color: #eeeeee;
+    padding: 20px 20px 20px 20px;
+    margin-left: 35px;
+}
+.saturday{
+    background-color: #eeeeee;
+    padding: 20px 20px 20px 20px;
+    margin-left: 35px;
+}
+body{
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+.cookie{
+    display: flex;
+    align-items: center;
+    position: relative;
+    border: black solid;
+    background-color: #eeeeee;
+    position: fixed;
+    
+
+}
+.marginl{
+    margin-top: 0px;
+    
+}
+.cookieup{
+    margin-top: 0px;
+}
+.btn{
+    background-color: #9fc5f8;
+    box-shadow: 0px 5px 5px 0px black;
+}
+.width{
+    max-width: 70%;
+}
+.btnparent{
+    margin-left: 70px;
+}
+.anchor{
+    color:#1d619c;
+    text-decoration: underline;
+}
